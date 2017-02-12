@@ -4,6 +4,7 @@ APP-V5.1
 
 
 Publish  Office 2016 
+--------------------
 
 
 Set-AppvClientConfiguration –EnablePackageScripts 1
@@ -12,6 +13,7 @@ Add-AppvClientPackage ProPlusRetail_en-us_x86.appv | Publish-AppvClientPackage -
 
 
 Publish App2 
+-----------
 
 Add-AppvClientPackage App2.appv | Publish-AppvClientPackage -Global
 
@@ -47,11 +49,12 @@ Change  DeploymentConfiguration same as office
 
 
 References
+----------
 
 https://technet.microsoft.com/en-us/itpro/mdop/appv-v5/deploying-microsoft-office-2016-by-using-app-v
 
 
-://blogs.technet.microsoft.com/appv/2012/11/06/deploying-connection-groups-in-microsoft-app-v-v5/
+https://blogs.technet.microsoft.com/appv/2012/11/06/deploying-connection-groups-in-microsoft-app-v-v5/
 
 
 http://www.appvirtguru.com/viewtopic.php?f=70&t=8093
