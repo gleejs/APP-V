@@ -1,5 +1,15 @@
 # APP-V
 Microsoft APP-V
+
+How to enable APP-V on Windows 10
+
+https://docs.microsoft.com/en-us/windows/application-management/app-v/appv-enable-the-app-v-desktop-client
+
+
+FAQ
+http://blog.eastern.nl/2016/08/run-or-enable-microsoft-app-v-client-on-windows-10-anniversary-update/
+
+
 APP-V5.1
 
 
